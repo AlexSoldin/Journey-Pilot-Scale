@@ -10,4 +10,4 @@ Arduino Uno - to supply power and control hardware.
 HX711 Load Cell Sensor - a high precision strain gauge used to measure mass.
 RFID-RC522 - a two-way radio transmitter-receiver used to read and write to NFC card.
 
-The Main.ino program contains the final code for the digital scale. However, to acheive this, a few calibration programs were adapted first. First, I determined the type of NFC cards that were already implemented in the project. Then the load sensor was calibrated with a known weight. 
+The Main.ino program contains the final code for the digital scale. However, to acheive this, a few calibration programs were adapted first. First, I determined the type of NFC cards that were already implemented in the project. Then the load sensor was calibrated with a known weight. The remaining programs were used to calibrate the sensors, identify the PICC type of the NFC card and erase the data on the card.
