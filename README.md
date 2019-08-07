@@ -1,4 +1,4 @@
-# JourneyPilot-Scale
+# Journey-Pilot-Scale
 This project aimed to test the validity of integrating a digital scale and NFC card reader into the JourneyPilot project developed by Jembi Health Systems. 
 
 The Journey Pilot is mobile based application that will allow Health Care Workers (HCWs) to eﬀectively manage events related to child vaccinations by streamlining the various activities related to immunization tracking.
